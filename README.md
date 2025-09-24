@@ -1,2 +1,2 @@
 # Katunguka-Emmanuel-
-Matlab group B
+Matlab group 6
